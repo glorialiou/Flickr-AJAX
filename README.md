@@ -1,1 +1,3 @@
 # Flickr-AJAX
+
+AJAX practice
